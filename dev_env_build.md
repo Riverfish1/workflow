@@ -113,8 +113,8 @@
     * 关闭当前选项卡：command+w
     * 格式化代码：command+option+l
     * 忽略格式化：@formatter:off的注释标记 
-        * <!--@formatter:off—>
-        * // @formatter:on
+        * “<!--@formatter:off—>”
+        * “@formatter:on“
     * 多行编辑：shift+option
     * 新建文件：command + N
     * 设置文件重命名：option + Q
@@ -279,3 +279,6 @@
 1. 删除文件： rm -rf  文件名；
 
 2. 查看文件内容： vi 文件名；
+
+
+
